@@ -1,1 +1,7 @@
-Here you can find some information that I yet don't know!
+# Table of content
+
+Here you can quickly access everything that's on this repo :)
+
+1. [Bash cheetsheet](/shell-and-git/README.md)
+
+2. [Git cheetsheet](/shell-and-git/README.md)
